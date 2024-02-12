@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.leaflet-control-geocoder {
+  color: black;
+  border: none !important;
+  border-radius: 8px;
+  background-color: transparent;
+  background: no-repeat;
+}
+
+.leaflet-routing-container {
+  color: black;
+}
